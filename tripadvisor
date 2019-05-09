@@ -1,5 +1,17 @@
-
 {
+  "address_obj": {
+    "street1": "10 Bayfront Avenue",
+    "street2": "",
+    "city": "Singapore",
+    "state": null,
+    "country": "Singapore",
+    "postalcode": "018956",
+    "address_string": "10 Bayfront Avenue, Singapore 018956 Singapore"
+  },
+  "latitude": "1.283751",
+  "rating": "4.5",
+  "description": "Located along Marina Bay waterfront with 3 cascading hotel towers, 2,560 rooms, extraordinary Sands Sky Park, floating crystal pavilions, lotus-inspired ArtScience Museum, The Shoppes, Celebrity Chef Restaurants, Theatres and hottest nightclubs.",
+  "location_id": "1770798",
   "trip_types": [
     {
       "name": "business",
@@ -184,6 +196,34 @@
       "title": "Amaxing"
     }
   ],
+  "write_review": "https://www.tripadvisor.com/UserReview-g294265-d1770798-m16157-Marina_Bay_Sands-Singapore.html",
+  "ancestors": [
+    {
+      "abbrv": null,
+      "level": "City",
+      "name": "Singapore",
+      "location_id": "294265"
+    },
+    {
+      "abbrv": null,
+      "level": "Country",
+      "name": "Singapore",
+      "location_id": "294262"
+    }
+  ],
+  "longitude": "103.8607",
+  "hours": null,
+  "percent_recommended": 78,
+  "partner_location_id": [
+    "HMB"
+  ],
+  "review_rating_count": {
+    "1": "893",
+    "2": "1040",
+    "3": "2987",
+    "4": "7386",
+    "5": "15158"
+  },
   "subratings": [
     {
       "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.gif",
@@ -230,7 +270,36 @@
     "geo_location_name": "Singapore",
     "ranking_string_detail": null
   },
+  "photo_count": "32421",
+  "location_string": "Singapore",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g294265-d1770798-Reviews-Marina_Bay_Sands-Singapore.html?m=16157",
+  "price_level": "$$$$",
+  "rating_image_url": "http://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-16157-5.svg",
+  "awards": [
+    {
+      "award_type": "Certificate of Excellence",
+      "year": "2018",
+      "images": {
+        "small": "http://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_v2_small-16157-5.jpg",
+        "large": "http://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2018_en_US_large-16157-5.jpg"
+      },
+      "categories": [
+      ],
+      "display_name": "Certificate of Excellence 2018"
+    }
+  ],
   "name": "Marina Bay Sands",
+  "num_reviews": "27464",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
   "room_tips": [
     {
       "review_id": "672646513",
