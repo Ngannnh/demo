@@ -1,31 +1,4 @@
 {
-  "trip_types": [
-    {
-      "name": "business",
-      "value": "2810",
-      "localized_name": "Business"
-    },
-    {
-      "name": "couples",
-      "value": "10386",
-      "localized_name": "Couples"
-    },
-    {
-      "name": "solo",
-      "value": "1206",
-      "localized_name": "Solo travel"
-    },
-    {
-      "name": "family",
-      "value": "7228",
-      "localized_name": "Family"
-    },
-    {
-      "name": "friends",
-      "value": "3606",
-      "localized_name": "Friends getaway"
-    }
-  ],
   "reviews": [
     {
       "id": "672661809",
